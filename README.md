@@ -53,3 +53,5 @@ A Doughnut Chart detailing Sum of Quantity by Payment Mode (COD is the largest a
 A Bar Chart showing Sum of Profit by Sub-Category (Printers and Bookcases are the highest profit generators).
 
 The dashboard includes slicers for Quarter (Qtr 1 - Qtr 4) and State in the top right for filtering the data.
+
+Dashboard Preview:- https://github.com/TONGER-TECH1994/SALES_DASHBOARD_POWER_BI/blob/main/SALES_DASHBOARD_POWER_BI.jpeg
