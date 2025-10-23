@@ -2,13 +2,13 @@
 1. Project Title/Headline:-
 H & M SALES DASHBOARD 📊
 
-Short Description/Purpose:-
+2. Short Description/Purpose:-
 This dashboard is designed to provide a comprehensive overview of sales performance for "H & M," enabling users to track key metrics like total sales amount, profit, quantity sold, and average order value (AOV). Its purpose is to facilitate data-driven decision-making by highlighting sales distribution across different states, product categories, customer names, payment modes, and sub-categories, as well as monthly profit trends.
 
-Tech Stack:-
+3. Tech Stack:-
 The primary tool used to create this visualization is Power BI.
 
-Features/Highlights:-
+4. Features/Highlights:-
 Key Performance Indicators (KPIs): Displays major metrics like Sum of Amount ($438K), Sum of Profit ($37K), Sum of Quantity (5615), and Sum of AOV ($121K).
 
 Geographic Analysis: Shows Sum of Amount by State, with Maharashtra leading the sales.
@@ -23,7 +23,7 @@ Time-Series Analysis: Includes a Profit by Month bar chart, showing a peak profi
 
 Interactivity: Implied filter for Quarter (Qtr 1 - Qtr 4) and State in the top-right corner, suggesting the ability to slice and dice the data.
 
-PHOTO/DEMO:-
+5. PHOTO/DEMO:-
 The dashboard is a visually rich, dark-themed Power BI report titled "H & M SALES DASHBOARD."
 
 It is organized into several sections, primarily featuring:
@@ -54,4 +54,4 @@ A Bar Chart showing Sum of Profit by Sub-Category (Printers and Bookcases are th
 
 The dashboard includes slicers for Quarter (Qtr 1 - Qtr 4) and State in the top right for filtering the data.
 
-Dashboard Preview:- https://github.com/TONGER-TECH1994/SALES_DASHBOARD_POWER_BI/blob/main/SALES_DASHBOARD_POWER_BI.jpeg
+6. Dashboard Preview:- https://github.com/TONGER-TECH1994/SALES_DASHBOARD_POWER_BI/blob/main/SALES_DASHBOARD_POWER_BI.jpeg
